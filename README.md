@@ -7,9 +7,7 @@
   
 
 - <b>Amazon Web Services (AWS)</b>
-  
-  
-
+  - [Hybrid Cloud Network Using a Samba server within a Red Hat EC2 instance hosted on AWS](https://github.com/EmmanuelAOlu/hybridcloud-aws--rhel9-samba)
 
 <h2>🤳Connect with me:</h2>
 
